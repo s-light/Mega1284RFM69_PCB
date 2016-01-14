@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name slight_RFM69)(type KiCad)(uri c:\_Local_DATA\_projects\_KiCAD\myPartLib\HopeRF_RFM69HW.pretty)(options "")(descr "HopeRF RFM69HW"))
+  (lib (name slight_Switch)(type KiCad)(uri c:\_Local_DATA\_projects\_KiCAD\myPartLib\schurter__smd_momentary_switch_lsg_no_6x6mm.pretty)(options "")(descr "SMD Switch"))
+  (lib (name slight_TI_TXB0108)(type KiCad)(uri c:\_Local_DATA\_projects\_KiCAD\myPartLib\TI_TXB0108.pretty)(options "")(descr "TXB0108 Levelshifter"))
+  (lib (name slight_NetBridge)(type KiCad)(uri c:\_Local_DATA\_projects\_KiCAD\myPartLib\NetBridge.pretty)(options "")(descr NetBridge))
+  (lib (name slight_SOT-23-5)(type KiCad)(uri c:\_Local_DATA\_projects\_KiCAD\myPartLib\_DEV_Housings_SOT-23.pretty)(options "")(descr ""))
+)

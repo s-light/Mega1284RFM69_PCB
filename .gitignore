@@ -1,28 +1,11 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# KiCAD ignore list:
+*.kicad_pcb-bak
+*.bak
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# project specific ignores:
+# for pcb-pool production files
+/pcb-pool*
+# for datasheets or other documents that are not allowed to be synced..
+/no_git_sync*
+# for old outdated things
+/old*
