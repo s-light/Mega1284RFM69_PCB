@@ -27,5 +27,5 @@ arduino compatible, breadboard friendly board with
 
 <!-- License info -->
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)   
-LED Board PCB by [Stefan Krüger (s-light)](https://github.com/s-light/Mega1284RFM69_PCB) is licensed under a  
+Mega1284RFM69 PCB by [Stefan Krüger (s-light)](https://github.com/s-light/Mega1284RFM69_PCB) is licensed under a  
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
